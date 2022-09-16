@@ -1,0 +1,338 @@
+IP Address;TTL;Hostname;MAC Address;MAC Vendor;Latency;Is Alive;Open Ports;Username;NIC Speed;Operating System;Serial Number;Model;Processor;Memory;% Free Mem;Time;Reliability;model;SNMP Description;SNMP Name;SNMP Location;SNMP Uptime;CustomSNMP;Switch/Port
+"Sending: 
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: ""ssdp:discover""
+MX: 5
+ST: ssdp:all
+
+";;;;;;;;;;;;;;;;;;;;;;;;
+10.24.70.1;64;;;;0;True;"22;80";;;;;;;;;;;;;;;;;
+10.24.70.10;63;;;;1;True;"22;23;80";;;;;;;;;;;;;;;;;
+10.24.70.11;63;;;;13;True;"22;23;80";;;;;;;;;;;;;;;;;
+10.24.70.12;63;;;;7;True;"22;23;80";;;;;;;;;;;;;;;;;
+10.24.202.1;64;;;;0;True;"22;80";;;;;;;;;;;;;;;;;
+10.24.202.95;127;;;;28;True;;;;;;;;;;;;;;;;;;
+10.24.202.124;127;;;;49;True;;;;;;;;;;;;;;;;;;
+10.24.202.125;127;;;;133;True;;;;;;;;;;;;;;;;;;
+192.168.50.1;64;;;;0;True;"22;80";;;;;;;;;;;;;;;;;
+192.168.50.2;63;;;;3;True;80;;;;;;;;;;;;;;;;;
+192.168.50.3;63;;;;8;True;80;;;;;;;;;;;;;;;;;
+192.168.50.4;63;;;;2;True;80;;;;;;;;;;;;;;;;;
+192.168.50.7;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.8;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+192.168.50.9;63;;;;0;True;80;;;;;;;;;;;;;;;;;
+192.168.50.11;63;;;;49;True;;;;;;;;;;;;;;;;;;
+192.168.50.12;63;;;;119;True;;;;;;;;;;;;;;;;;;
+192.168.50.13;63;;;;4;True;;;;;;;;;;;;;;;;;;
+192.168.50.5;127;;;;1;True;3389;;;;;;;;;;;;;;;;;
+192.168.50.14;63;;;;90;True;;;;;;;;;;;;;;;;;;
+192.168.50.17;63;;;;4;True;;;;;;;;;;;;;;;;;;
+192.168.50.18;63;;;;129;True;;;;;;;;;;;;;;;;;;
+192.168.50.19;63;;;;455;True;;;;;;;;;;;;;;;;;;
+192.168.50.20;63;;;;29;True;;;;;;;;;;;;;;;;;;
+192.168.50.23;63;;;;46;True;;;;;;;;;;;;;;;;;;
+192.168.50.31;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.32;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.33;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.34;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.35;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.36;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.37;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.38;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.39;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.40;63;;;;1;True;"22;80";;;;;;;;;;;;;;;;;
+192.168.50.63;63;;;;23;True;;;;;;;;;;;;;;;;;;
+192.168.50.62;63;;;;172;True;;;;;;;;;;;;;;;;;;
+192.168.50.69;63;;;;70;True;;;;;;;;;;;;;;;;;;
+192.168.50.68;63;;;;175;True;;;;;;;;;;;;;;;;;;
+192.168.50.72;127;;;;1;True;;;;;;;;;;;;;;;;;;
+192.168.50.75;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.74;63;;;;164;True;;;;;;;;;;;;;;;;;;
+192.168.50.76;63;;;;40;True;;;;;;;;;;;;;;;;;;
+192.168.50.78;127;;;;9;True;;;;;;;;;;;;;;;;;;
+192.168.50.81;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.88;127;;;;4;True;;;;;;;;;;;;;;;;;;
+192.168.50.96;127;;;;6;True;;;;;;;;;;;;;;;;;;
+192.168.50.84;63;;;;67;True;;;;;;;;;;;;;;;;;;
+192.168.50.100;63;;;;38;True;;;;;;;;;;;;;;;;;;
+192.168.50.95;63;;;;324;True;;;;;;;;;;;;;;;;;;
+192.168.50.91;63;;;;119;True;;;;;;;;;;;;;;;;;;
+192.168.50.99;63;;;;101;True;;;;;;;;;;;;;;;;;;
+192.168.50.101;63;;;;17;True;;;;;;;;;;;;;;;;;;
+192.168.50.82;63;;;;319;True;;;;;;;;;;;;;;;;;;
+192.168.50.104;63;;;;323;True;;;;;;;;;;;;;;;;;;
+192.168.50.105;63;;;;37;True;;;;;;;;;;;;;;;;;;
+192.168.50.106;63;;;;364;True;;;;;;;;;;;;;;;;;;
+192.168.50.109;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.112;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.110;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.111;127;;;;53;True;;;;;;;;;;;;;;;;;;
+192.168.50.113;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.108;63;;;;591;True;;;;;;;;;;;;;;;;;;
+192.168.50.122;63;;;;2;True;"22;80";;;;;;;;;;;;;;;;;
+192.168.50.117;127;;;;4;True;;;;;;;;;;;;;;;;;;
+192.168.50.116;63;;;;424;True;;;;;;;;;;;;;;;;;;
+192.168.50.130;63;;;;95;True;;;;;;;;;;;;;;;;;;
+192.168.50.127;63;;;;83;True;;;;;;;;;;;;;;;;;;
+192.168.50.125;63;;;;137;True;;;;;;;;;;;;;;;;;;
+192.168.50.121;63;;;;98;True;;;;;;;;;;;;;;;;;;
+192.168.50.123;63;;;;83;True;;;;;;;;;;;;;;;;;;
+192.168.50.119;63;;;;330;True;;;;;;;;;;;;;;;;;;
+192.168.50.120;63;;;;321;True;;;;;;;;;;;;;;;;;;
+192.168.50.129;63;;;;507;True;;;;;;;;;;;;;;;;;;
+192.168.50.135;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.132;63;;;;401;True;;;;;;;;;;;;;;;;;;
+192.168.50.133;63;;;;183;True;;;;;;;;;;;;;;;;;;
+192.168.50.137;127;;;;14;True;;;;;;;;;;;;;;;;;;
+192.168.50.138;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.141;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.136;63;;;;131;True;;;;;;;;;;;;;;;;;;
+192.168.50.139;63;;;;72;True;;;;;;;;;;;;;;;;;;
+192.168.50.146;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.151;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.149;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.154;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.160;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.159;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.152;63;;;;65;True;;;;;;;;;;;;;;;;;;
+192.168.50.158;127;;;;5;True;;;;;;;;;;;;;;;;;;
+192.168.50.157;63;;;;14;True;;;;;;;;;;;;;;;;;;
+192.168.50.162;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.161;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.156;63;;;;157;True;;;;;;;;;;;;;;;;;;
+192.168.50.166;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.165;63;;;;46;True;;;;;;;;;;;;;;;;;;
+192.168.50.164;63;;;;312;True;;;;;;;;;;;;;;;;;;
+192.168.50.168;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.171;127;;;;4;True;;;;;;;;;;;;;;;;;;
+192.168.50.175;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.170;63;;;;36;True;;;;;;;;;;;;;;;;;;
+192.168.50.176;127;;;;18;True;;;;;;;;;;;;;;;;;;
+192.168.50.169;63;;;;273;True;;;;;;;;;;;;;;;;;;
+192.168.50.178;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.172;63;;;;214;True;;;;;;;;;;;;;;;;;;
+192.168.50.173;63;;;;722;True;;;;;;;;;;;;;;;;;;
+192.168.50.184;127;;;;5;True;;;;;;;;;;;;;;;;;;
+192.168.50.179;63;;;;412;True;;;;;;;;;;;;;;;;;;
+192.168.50.189;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.183;63;;;;111;True;;;;;;;;;;;;;;;;;;
+192.168.50.188;127;;;;2;True;;;;;;;;;;;;;;;;;;
+192.168.50.186;63;;;;83;True;;;;;;;;;;;;;;;;;;
+192.168.50.181;63;;;;487;True;;;;;;;;;;;;;;;;;;
+192.168.50.187;63;;;;522;True;;;;;;;;;;;;;;;;;;
+192.168.50.182;63;;;;145;True;;;;;;;;;;;;;;;;;;
+192.168.50.191;127;;;;3;True;;;;;;;;;;;;;;;;;;
+192.168.50.198;63;;;;32;True;80;;;;;;;;;;;;;;;;;
+192.168.50.195;63;;;;345;True;;;;;;;;;;;;;;;;;;
+192.168.50.228;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.230;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.232;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.231;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.233;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.234;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.236;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.235;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.241;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.242;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.245;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.244;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.247;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.50.248;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.249;63;;;;1;True;22;;;;;;;;;;;;;;;;;
+192.168.50.253;63;;;;0;True;22;;;;;;;;;;;;;;;;;
+192.168.1.1;64;MT;C4:AD:34:25:9F:7F;Routerboardcom;0;True;"22;80";;;;;;;;;;;;;;;;;192.168.1.18 | Uplink-NSS
+192.168.1.2;64;MIKROTIK-HEX-VP;B8:69:F4:90:C5:C1;Routerboardcom;0;True;"22;80";;;;;;;;;;;;RouterOS RB760iGS;MikroTik-hEX-VPN-FSH;FSH;22d 21h 46m 3s 0ms;RouterOS RB760iGS;192.168.1.20 | Port1-MT-hEX
+192.168.1.4;64;MIKROTIK;48:8F:5A:5A:25:68;Routerboardcom;0;True;"22;80";;;;;;;;;;;;RouterOS RB760iGS;MikroTik hEX @ FPX;FPX;22d 21h 48m 15s 0ms;RouterOS RB760iGS;192.168.1.12 | Port19-hEX-KSE
+192.168.1.5;64;;B8:69:F4:90:C5:AF;Routerboardcom;0;True;"22;80";;;;;;;;;;;;;;;;;192.168.1.18 | Port18-WiFi
+192.168.1.6;64;;B8:69:F4:E9:54:E1;Routerboardcom;8;True;"22;80";;;;;;;;;;;;;;;;;192.168.1.18 | Port17-CCTV
+192.168.1.8;128;ELMED-PC;00:0C:29:87:6F:55;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.7;128;IT-BACKUP21-S;2C:41:38:87:C6:88;HewlettPackard Company;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP5-IT-BACKUP21
+192.168.1.13;64;MIKROTIK CCR1016 CORE;C4:AD:34:E0:B3:A9;Routerboardcom;0;True;"22;80";;;;;;;;;;;;RouterOS CCR1016-12S-1S+;MikroTik CCR1016 CORE;NSS;393d 6h 8m 30s 0ms;RouterOS CCR1016-12S-1S+;192.168.1.18 | Uplink-NSS
+192.168.1.9;128;AV-SERVER;00:0C:29:EE:60:49;VMware ;0;True;"80;3389";AV-SERVER\kaspersky;1000 Mbps;Microsoft Windows Server 2019 Standard;VMware-56 4d 7a 53 44 ea 3b 3d-39 88 40 ab bf ee 60 49;VMware Virtual Platform;Intel(R) Xeon(R) Silver 4210R CPU @ 2.40GHz;16383 MB;35 %;2022-9-16 14:20;9.207;VMware Virtual Platform;;;;;;192.168.1.37 | SFP3-LenovoJAPI
+192.168.1.12;255;MT CSS326-FPX;C4:AD:34:96:86:C7;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-FPX;FPX;61d 2h 50m 13s 610ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Downlink-FPX
+192.168.1.11;255;MT CSS 326-HU;2C:C8:1B:28:BB:71;Routerboardcom.;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS 326-HU;Kontejner B;62d 22h 51m 11s 250ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.27 | Slot0/28
+192.168.1.10;64;;90:6C:AC:54:04:41;Fortinet ;1;True;;;;;;;;;;;;;;;;;;192.168.1.20 | Port3-Fortigate
+192.168.1.15;255;CANON9226F4;84:BA:3B:92:26:F4;Canon ;0;True;"80;443";;;;;;;;;;;;Canon MF240 Series /P;MF240 Series;;11d 2h 49m 49s 340ms;Canon MF240 Series /P;192.168.1.96 | Port3
+192.168.1.14;255;MT CSS326-FTO;48:8F:5A:37:B0:E9;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-FTO;FTO;46d 0h 0m 3s 290ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.19;128;ITQSERVER1;00:0C:29:8D:BA:1C;VMware ;0;True;80;;;;;;;;;;;;;;;;;192.168.1.37 | SFP3-LenovoJAPI
+192.168.1.16;255;MT CSS623-MGP;48:8F:5A:37:D0:8F;Routerboardcom;1;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS623-MGP;MGP;61d 2h 50m 33s 480ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Downlink-MGP
+192.168.1.17;255;MT CSS326-SRV;08:55:31:60:3A:5C;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-SRV;SERVERSKI;380d 2h 38m 31s 130ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Downlink-SRV
+192.168.1.18;255;MT CSS326-SSS-RO;08:55:31:60:39:EB;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-SSS-RO;Server Sala RO;390d 15h 29m 34s 330ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.122 | Uplink-NSS
+192.168.1.20;255;MT CSS 326-FSH;08:55:31:60:25:AB;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS 326-FSH;FSH;22d 21h 46m 32s 460ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Downlink-FSH
+192.168.1.21;64;;38:68:DD:2F:18:E8;Inventec Corporation;0;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.22;255;MT CSS326-PAK;08:55:31:60:3A:42;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-PAK;FSH-PAK;61d 2h 50m 45s 210ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.20 | Downlink-PAK
+192.168.1.24;64;;1C:A0:B8:76:5B:67;Hon Hai Precision Ind;0;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.17 | Port1-Lenovo
+192.168.1.25;64;KANC4;C4:12:F5:DD:88:BA;DLink International;3;True;"23;80";;;;;;;;;;;;DGS-1210-52/C1 4.00.064;KANC4;;117d 1h 54m 44s 610ms;DGS-1210-52/C1 4.00.064;192.168.1.122 | Port24-Downlink
+192.168.1.23;64;;38:68:DD:30:94:28;Inventec Corporation;0;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.37 | SFP3-LenovoJAPI
+192.168.1.32;64;OMV;00:0C:29:89:E4:B2;VMware ;1;True;"22;80";;;;;;;;;;;;Linux omv.omv.local 4.19.0-5-amd64 #1 SMP Debian 4.19.37-5+deb10u2 (2019-08-08) x86_64;omv;IT Office;103d 22h 44m 16s 590ms;Linux omv.omv.local 4.19.0-5-amd64 #1 SMP Debian 4.19.37-5+deb10u2 (2019-08-08) x86_64;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.27;64;PORTA;54:B8:0A:63:B9:36;DLink International;2;True;"23;80";;;;;;;;;;;;DES-1210-28          4.00.064;PORTA;;102d 8h 18m 58s 960ms;DES-1210-28          4.00.064;192.168.1.14 | DLink-FTO
+192.168.1.28;64;HODNIK;54:B8:0A:63:B9:96;DLink International;6;True;"22;23;80";;;;;;;;;;;;DES-1210-28          4.00.064;HODNIK;;64d 7h 48m 51s 580ms;DES-1210-28          4.00.064;192.168.1.157 | Port23-Downlink
+192.168.1.30;128;WS2012R2;00:0C:29:0B:D8:1D;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.31;64;;00:0C:29:A0:D3:F6;VMware ;1;True;80;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.34;64;CS141;00:30:D6:18:2A:67;MSC Vertriebs GmbH;0;True;"22;80;443";;;;;;;;;;;;The CS141 SNMP Agent;cs141;Unknown;405d 4h 36m 45s 690ms;The CS141 SNMP Agent;192.168.1.36 | ABB-UPS-SNMP
+192.168.1.35;255;MT CSS326-IT-LAB;2C:C8:1B:29:D7:F6;Routerboardcom.;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-IT-LAB;NSS-SR-2;392d 2h 30m 28s 230ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.36;255;MT CSS326-EDGE;2C:C8:1B:28:BB:A5;;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-EDGE;NSS-NR-2;392d 1h 50m 56s 340ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.37;255;MIKROTIK NSS R1;08:55:31:67:66:C3;Routerboardcom;0;True;80;;;;;;;;;;;;CRS317-1G-16S+ SwOS v2.13;Mikrotik NSS R1;NSS-SR-1;392d 2h 19m 18s 830ms;CRS317-1G-16S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.40;128;RADWAG-PC;00:0C:29:7E:75:53;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.41;255;ZT411;00:07:4D:C4:AD:20;Zebra Technologies Corp;0;True;80;;;;;;;;;;;;Zebra Technologies ZT411-203dpi / internal wired;ZT411;;22d 5h 1m 36s 110ms;Zebra Technologies ZT411-203dpi / internal wired;192.168.1.18 | Port19
+192.168.1.44;128;DYN1;00:16:59:04:A4:6B;ZMP Radwag;5;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.22 | Port23-DlinkSW
+192.168.1.42;255;18J193700096;00:07:4D:9E:9E:1C;Zebra Technologies Corp;0;True;80;;;;;;;;;;;;Zebra Wired;18J193700096;;11d 9h 46m 57s 340ms;Zebra Wired;192.168.1.16 | Port8-Zebra
+192.168.1.45;128;X93191;00:16:59:00:A8:61;ZMP Radwag;5;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.22 | Port23-DlinkSW
+192.168.1.46;128;DYN3;00:16:59:06:99:60;ZMP Radwag;6;True;"80;443";;;;;;;;;;;;;;;;;192.168.1.22 | Port23-DlinkSW
+192.168.1.61;128;TRN-IVANA-PC;6C:4B:90:42:D5:CE;LiteON;0;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port6
+192.168.1.66;127;VPNSERVER;00:0C:29:58:EF:8C;VMware ;0;True;"80;443;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.64;64;;BC:AD:28:36:93:BE;Hangzhou Hikvision Digital Technology;0;True;;;;;;;;;;;;;;;;;;192.168.1.14 | CCTV-PoE-FTO
+192.168.1.93;64;ITPODRSKA;00:0C:29:68:BE:B9;VMware ;0;True;"22;80;443";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.67;0;;00:0C:29:58:EF:8C;VMware ;0;False;;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.79;64;N2310;00:14:FD:35:0F:FC;Thecus Technology Corp;0;True;"22;443";;;;;;;;;;;;;;;;;192.168.1.37 | SFP2-NAS
+192.168.1.106;128;VPNSERVER;00:0C:29:58:EF:8C;VMware ;0;True;"80;443;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.105;128;PCOSERVER;00:0C:29:48:3C:A1;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.98;128;MERENJE1-PC;00:0C:29:82:6F:E5;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.107;128;WS2019E1;00:0C:29:A9:26:26;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.96;255;MT CSS326-LAB;08:55:31:60:2C:A3;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-LAB;;117d 1h 46m 10s 270ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.73;127;LS-MILOS-NB;00:0C:29:58:EF:8C;VMware ;64;True;;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.109;128;LETOVIC-NB;E8:6A:64:61:84:33;LCFC(HeFei) Electronics Technology;1;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port3
+192.168.1.112;255;;00:40:9D:69:2B:C3;DigiBoard;0;True;"22;23;80;443";;;;;;;;;;;;Digi Connect ME4 9210 Version 82001607_L 02/09/2011;;;61d 2h 53m 25s 930ms;Digi Connect ME4 9210 Version 82001607_L 02/09/2011;192.168.1.22 | Port23-DlinkSW
+192.168.1.108;128;INFORMATIKA-BP;00:0C:29:12:65:31;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.118;128;KON-RATKA-PC;A4:AE:12:82:A3:55;Hon Hai Precision Ind;1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/41
+192.168.1.110;255;;00:40:9D:BA:82:94;DigiBoard;0;True;"22;23;80;443";;;;;;;;;;;;;;;;;192.168.1.12 | Port23
+192.168.1.113;255;;00:40:9D:D0:6E:43;DigiBoard;1;True;"22;23;80;443";;;;;;;;;;;;;;;;;192.168.1.253 | Port15
+192.168.1.114;255;;00:40:9D:D0:6B:68;DigiBoard;0;True;"22;23;80;443";;;;;;;;;;;;;;;;;192.168.1.27 | Slot0/25
+192.168.1.119;128;KVA-KVALITET-PC;A4:AE:12:82:A3:59;Hon Hai Precision Ind;1;True;;;;;;;;;;;;;;;;;;192.168.1.96 | Port15
+192.168.1.99;255;CSS326;08:55:31:64:71:1F;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;css326;Kontejner A;117d 1h 46m 17s 400ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.14 | Downlink-Kont-A
+192.168.1.100;127;;00:03:27:07:FC:30;ACT'L;1;True;;;;;;;;;;;;;"Siemens; SIMATIC HMI; TP1200 Comfort; 6AV2 124-0MC01-0AX0; HW: 0; SW: V 15 1 0";HMI_Panel;;22d 21h 54m 14s 60ms;"Siemens; SIMATIC HMI; TP1200 Comfort; 6AV2 124-0MC01-0AX0; HW: 0; SW: V 15 1 0";192.168.1.12 | Minazel-Libela
+192.168.1.101;32;;00:80:F0:C6:20:FE;Panasonic Communications;1;True;;;;;;;;;;;;;;;;;;192.168.1.18 | Uplink-NSS
+192.168.1.126;128;FIN-MIRA-PC;6C:4B:90:44:CB:2C;LiteON;0;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/7
+192.168.1.102;255;;00:80:F0:C6:20:FF;Panasonic Communications;0;True;;;;;;;;;;;;;;;;;;192.168.1.37 | Uplink-CCR1016
+192.168.1.123;64;;00:0C:29:9D:26:12;VMware ;1;True;"22;80";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.137;255;NPIA9784C;30:8D:99:A9:78:4C;HewlettPackard Company;1;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:CNFF928051;FN:Q571SKJ;SVCID:26029;PID:HP LaserJet 400 color M451nw";NPIA9784C;;50d 0h 16m 42s 570ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:CNFF928051;FN:Q571SKJ;SVCID:26029;PID:HP LaserJet 400 color M451nw";192.168.1.25 | Slot0/35
+192.168.1.122;255;MT CSS326-KANC4;2C:C8:1B:29:E0:16;Routerboardcom.;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-KANC4;KANCELARIJA 4;117d 1h 47m 2s 790ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.18 | Uplink-NSS
+192.168.1.139;128;ITQSERVER2;30:E1:71:70:4C:00;HewlettPackard Company;0;True;"80;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP3-LenovoJAPI
+192.168.1.135;128;IT-ZLATKO-PC;6C:4B:90:E7:E5:EC;LiteON;1;True;"80;3389";;;;;;;;;;;;;;;;;192.168.1.27 | Ethernet Interface
+192.168.1.128;128;MAG-CCTV-PC;18:C0:4D:3C:03:9B;GigaByte Technology;0;True;;;;;;;;;;;;;;;;;;192.168.1.16 | Port2-DesktopPC
+192.168.1.115;0;;70:8B:CD:C6:5C:40;ASUSTek Computer ;0;False;;;;;;;;;;;;;;;;;;192.168.1.11 | Port10
+192.168.1.132;128;IT-ARHIVA21-S;E0:07:1B:FF:0A:35;Hewlett Packard Enterprise;1;True;3389;;;;;;;;;;;;;;;;;192.168.1.17 | Port2
+192.168.1.140;128;MAG-VAGA2-PC;1C:A0:B8:76:5B:58;Hon Hai Precision Ind;0;True;;;;;;;;;;;;;;;;;;192.168.1.99 | VAGA1  
+192.168.1.144;128;FIN-MARIJANA-PC;D0:17:C2:97:FE:DF;ASUSTek Computer ;1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/9
+192.168.1.145;128;FTO-VAGA2-PC;1C:39:47:C8:CF:8E;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.14 | TPLink-FTO
+192.168.1.146;128;ATOMAC-PC;F4:93:9F:F1:C3:56;Hon Hai Precision Ind;0;True;;;;;;;;;;;;;;;;;;192.168.1.96 | Port3
+192.168.1.125;0;;00:0C:29:46:DC:74;VMware ;0;False;3389;;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.133;128;SIL-MIS;D0:27:88:8B:17:5A;Hon Hai Precision Ind;0;True;;;;;;;;;;;;;;;;;;192.168.1.253 | Port1-racunar
+192.168.1.136;100;;68:27:19:C1:03:63;Microchip Technology ;1;True;80;;;;;;;;;;;;PIC;Microchip;office;44d 6h 28m 49s 890ms;PIC;192.168.1.37 | SFP9
+192.168.1.147;255;STRUCNA;D8:49:2F:5C:01:2A;Canon ;0;True;"80;443";;;;;;;;;;;;Canon MF220 Series /P;STRUCNA;;1d 5h 52m 12s 920ms;Canon MF220 Series /P;192.168.1.122 | Port14-BO
+192.168.1.134;64;;00:03:27:07:FC:30;ACT'L;0;True;80;;;;;;;;;;;;;;;;;192.168.1.12 | Minazel-Libela
+192.168.1.130;255;;00:80:F0:BE:8D:7B;Panasonic Communications;1;True;;;;;;;;;;;;;;;;;;192.168.1.96 | Port11-NIR
+192.168.1.141;255;;00:80:F0:BE:BC:D7;Panasonic Communications;0;True;;;;;;;;;;;;;;;;;;192.168.1.253 | Port2-telefon
+192.168.1.138;255;;00:80:F0:BE:BC:B5;Panasonic Communications;1;True;;;;;;;;;;;;;;;;;;192.168.1.11 | Port21-TEL
+192.168.1.129;0;;D8:3B:BF:6C:E6:89;Intel Corporation;0;False;;;;;;;;;;;;;;;;;;192.168.1.253 | WiFi-AP
+192.168.1.156;64;CANON;B4:00:16:44:4A:F8; Ingenico Terminals SAS;0;True;;;;;;;;;;;;;;;;;;192.168.1.18 | Port10-MP1
+192.168.1.150;128;FSH-PAKERICE-PC;1C:39:47:C8:6D:55;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.22 | Port22-Laptop
+192.168.1.154;128;MP-MISICEVOMP01;9C:5A:44:8D:B9:CE;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.18 | Port10-MP1
+192.168.1.158;128;BO-IVANA-PC;9C:5A:44:2A:FE:9F;Compal Information (Kunshan);0;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port11-BO
+192.168.1.169;255;CANON92272D;84:BA:3B:92:27:2D;Canon ;0;True;"80;443";;;;;;;;;;;;Canon MF240 Series /P;MF240 Series;;0d 7h 8m 10s 160ms;Canon MF240 Series /P;192.168.1.25 | Slot0/6
+192.168.1.161;128;KON-PREDRAG-PC;4C:CC:6A:CA:56:63;MicroStar INTL;1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/26
+192.168.1.168;128;EDITA-PC;D0:17:C2:97:FB:89;ASUSTek Computer ;1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/7
+192.168.1.164;128;DIR-EDE-NB;48:2A:E3:AA:F8:E6;Wistron InfoComm(Kunshan);2;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/34
+192.168.1.167;128;KVA-ROBERT-NB;F4:A8:0D:02:0B:E3;"Wistron InfoComm(Kunshan)Co;Ltd.";1;True;;;;;;;;;;;;;;;;;;192.168.1.96 | Port9-NSS-R2
+192.168.1.166;128;FIN-MILICA-PC;98:29:A6:9A:8F:99;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/24
+192.168.1.157;255;MT CSS326-HODNIK;C4:AD:34:97:55:0E;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS326-HODNIK;Akademija;64d 7h 49m 46s 700ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.14 | DLink-HODNIK
+192.168.1.173;64;HP5EAFAF;C8:5A:CF:5E:AF:AF;;1;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HP5EAFAF;;4d 2h 9m 57s 30ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.25 | Slot0/22
+192.168.1.159;64;;00:C0:A2:06:E9:FF;Intermedium A/S;1;True;443;;;;;;;;;;;;;;;;;192.168.1.22 | Port10-DREWMAX
+192.168.1.153;255;;00:80:F0:BE:8D:3C;Panasonic Communications;1;True;;;;;;;;;;;;;;;;;;192.168.1.20 | Port17
+192.168.1.180;255;NPI7E719B;B4:B6:86:7E:71:9B;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5T2NB;FN:1M97030;SVCID:28260;PID:Finansije / Akademija";NPI7E719B;Finansije / Akademija;2d 6h 2m 9s 130ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5T2NB;FN:1M97030;SVCID:28260;PID:Finansije / Akademija";192.168.1.25 | Slot0/31
+192.168.1.183;255;IT-HP-PR;10:62:E5:5F:B4:C3;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL6W7ZR;FN:1M98135;SVCID:29041;PID:IT SECTOR";IT-HP-PR;IT Sector;7d 0h 34m 28s 520ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL6W7ZR;FN:1M98135;SVCID:29041;PID:IT SECTOR";192.168.1.96 | Port17-ITkanc
+192.168.1.182;255;NPIC486BC;B4:B6:86:C4:86:BC;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5H5CG;FN:3W920YP;SVCID:28316;PID:Magacin GP";NPIC486BC;Magacin GP;21d 22h 14m 46s 580ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5H5CG;FN:3W920YP;SVCID:28316;PID:Magacin GP";192.168.1.16 | Port4
+192.168.1.181;255;NPIC2B424;B4:B6:86:C2:B4:24;HewlettPackard Company;1;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5SJM2;FN:1M9758G;SVCID:28264;PID:HP LaserJet MFP M426fdn";NPIC2B424;;9d 5h 49m 38s 100ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL5SJM2;FN:1M9758G;SVCID:28264;PID:HP LaserJet MFP M426fdn";192.168.1.122 | Port22
+192.168.1.179;64;INV-HP454-PR;50:81:40:AB:99:5B;HP Inc.;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;INV-HP454-PR;;28d 2h 43m 31s 720ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.28 | Slot0/1
+192.168.1.162;0;IT-ALEKSANDRA-N;F4:A8:0D:02:9B:1D;"Wistron InfoComm(Kunshan)Co;Ltd.";0;False;;;;;;;;;;;;;;;;;;192.168.1.27 | Slot0/9
+192.168.1.184;255;NPI5FB4BE;10:62:E5:5F:B4:BE;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL6W814;FN:1M98130;SVCID:29043;PID:Poslovodje PX";NPI5FB4BE;Location_Not_Printable;11d 5h 52m 27s 60ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL6W814;FN:1M98130;SVCID:29043;PID:Poslovodje PX";192.168.1.18 | Port19
+192.168.1.152;64;;A0:F3:C1:93:20:5B;TPLink Technologies;0;True;;;;;;;;;;;;;;;;;;192.168.1.18 | Port10-MP1
+192.168.1.185;255;NPICFE416;C8:D9:D2:CF:E4:16;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL8S3TV;FN:1M9ALXK;SVCID:29098;PID:Investicije";NPICFE416;Investicije / Kancelarija 4;18d 4h 53m 46s 840ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLL8S3TV;FN:1M9ALXK;SVCID:29098;PID:Investicije";192.168.1.157 | Port7
+192.168.1.187;255;NPI538897;84:A9:3E:53:88:97;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLLD58NR;FN:1MA0CET;SVCID:29249;PID:Racunovodstvo";NPI538897;Racunovodstvo;0d 0h 45m 23s 910ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLLD58NR;FN:1MA0CET;SVCID:29249;PID:Racunovodstvo";192.168.1.25 | Slot0/15
+192.168.1.178;128;ODR-GORAN-NB;B4:A9:FC:B9:18:99;Quanta Computer ;1;True;;;;;;;;;;;;;;;;;;192.168.1.157 | Port1
+192.168.1.176;128;OPR-SIDJI-NB;7C:8A:E1:B2:E2:55;Compal Information (Kunshan);2;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port2
+192.168.1.171;0;DESKTOP-3M0G2SQ;D0:37:45:E2:35:04;TPLink Technologies;0;False;;;;;;;;;;;;;;;;;;192.168.1.96 | Port3
+192.168.1.188;255;NPI539834;84:A9:3E:53:98:34;HewlettPackard Company;0;True;"80;443";;;;;;;;;;;;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLLD58NC;FN:1MA0CKK;SVCID:30227;PID:Patent CO. HR";NPI539834;HR;25d 6h 18m 35s 980ms;"HP ETHERNET MULTI-ENVIRONMENT;SN:PHBLLD58NC;FN:1MA0CKK;SVCID:30227;PID:Patent CO. HR";192.168.1.96 | Port18
+192.168.1.189;64;BACKOFFICE;84:2A:FD:EA:17:CD;HP ;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;BackOffice;;7d 1h 7m 6s 520ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.122 | Port10-BO-HP
+192.168.1.160;0;;0C:9D:92:4C:16:70;ASUSTek Computer ;0;False;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/47
+192.168.1.191;64;HP92E621;38:22:E2:92:E6:21;HP ;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HP92E621;;0d 23h 41m 4s 990ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.11 | Port9-Canon4570
+192.168.1.190;64;HPEA3715;84:2A:FD:EA:37:15;HP ;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HPEA3715;;11d 3h 14m 27s 60ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.96 | Port6
+192.168.1.195;64;HPED9D65;48:9E:BD:ED:9D:65;HP Inc.;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HPED9D65;;7d 0h 3m 20s 940ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.36 | Port17
+192.168.1.177;0;DESKTOP-1FUPNOL;A4:17:91:16:CE:39;Shenzhen Decnta Technology;0;False;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/47
+192.168.1.194;64;HPEA17CF;84:2A:FD:EA:17:CF;HP ;1;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HPEA17CF;;2d 23h 21m 56s 120ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.122 | Port21
+192.168.1.193;64;IT-NAS;00:00:C0:3B:DA:01;Western Digital Corporation;0;True;80;;;;;;;;;;;;;;;;;192.168.1.18 | Port11
+192.168.1.197;128;SIL-MISICEVO-PC;D8:BB:C1:7E:B9:32;"Micro-Star INTL CO; LTD.";0;True;3389;;;;;;;;;;;;;;;;;192.168.1.253 | Port24-NewComp
+192.168.1.200;128;IT-IGOR-NB;F4:A8:0D:02:21:B4;"Wistron InfoComm(Kunshan)Co;Ltd.";2;True;3389;;;;;;;;;;;;;;;;;192.168.1.27 | Slot0/7
+192.168.1.198;128;FSH-CCTV-PC;18:C0:4D:3C:03:9D;GigaByte Technology;0;True;;;;;;;;;;;;;;;;;;192.168.1.20 | Port11
+192.168.1.201;128;FIN-NENAD-PC;D8:BB:C1:7E:B8:DA;;1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/23
+192.168.1.199;0;SUDAREVIC-PC;B4:A9:FC:7C:6C:B0;Quanta Computer ;0;False;3389;;;;;;;;;;;;;;;;;192.168.1.27 | Slot0/11
+192.168.1.210;128;IT-ORIGAMI-SRV;00:0C:29:D8:6C:C7;VMware ;0;True;"80;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.196;64;HPA9A428;50:81:40:A9:A4:28;HP Inc.;0;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HPA9A428;;0d 18h 46m 54s 130ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.253 | Port3-stampac
+192.168.1.212;128;DMS-ORIGAMI;00:0C:29:BD:18:93;VMware ;0;True;"80;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.202;128;DESKTOP-H71PJRL;00:1B:21:39:FE:CD;Intel Corporation;0;True;;;;;;;;;;;;;;;;;;192.168.1.96 | Port3
+192.168.1.192;64;;F4:81:39:BD:40:B9;Canon ;0;True;80;;;;;;;;;;;;Canon iR2520 /P;;;0d 22h 14m 46s 300ms;Canon iR2520 /P;192.168.1.25 | Slot0/33
+192.168.1.218;64;HPA994F0;50:81:40:A9:94:F0;HP Inc.;1;True;"80;443";;;;;;;;;;;;HP ETHERNET MULTI-ENVIRONMENT;HPA994F0;;0d 0h 24m 3s 300ms;HP ETHERNET MULTI-ENVIRONMENT;192.168.1.16 | Port12-HP149
+192.168.1.209;128;MAG-VAGA3-PC;6C:4B:90:96:CC:46;LiteON;1;True;;;;;;;;;;;;;;;;;;192.168.1.11 | Port5-VAGA4
+192.168.1.214;128;PRZ-SRDJAN-NB;54:AB:3A:D5:CF:CF;Quanta Computer ;1;True;;;;;;;;;;;;;;;;;;192.168.1.20 | Port9
+192.168.1.216;128;BO-DRAGANA-PC;08:97:98:F8:5C:7A;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port12-BO
+192.168.1.213;128;FIN-VESNA-PC;9C:5A:44:2A:3A:F5;Compal Information (Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/1
+192.168.1.228;128;BESTMIX-SRVR;00:0C:29:26:1C:AC;VMware ;0;True;"80;3389";;;;;;;;;;;;;;;;;192.168.1.37 | SFP1-LenovoSRV
+192.168.1.223;128;MPS-SLAVICA-NB;48:2A:E3:6A:A7:BE;Wistron InfoComm(Kunshan);1;True;;;;;;;;;;;;;;;;;;192.168.1.122 | Port9-BO-Canon
+192.168.1.208;255;MIKROTIK-NSS-NR2;2C:C8:1B:29:E4:A8;Routerboardcom.;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MikroTik-NSS-NR2;NSS-NER-R2;357d 0h 50m 44s 700ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.36 | Port23-Downlink
+192.168.1.211;64;;00:80:A3:B4:70:06;Lantronix;0;True;80;;;;;;;;;;;; V6.10.0.1 (141023);;;0d 21h 54m 37s 580ms; V6.10.0.1 (141023);192.168.1.22 | L1-DEK
+192.168.1.230;128;SERVIS;00:0C:29:CE:09:FF;VMware ;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.17 | Port1-Lenovo
+192.168.1.242;128;PATENT-PC;DC:4A:3E:8B:C0:79;HewlettPackard Company;0;True;3389;;;;;;;;;;;;;;;;;192.168.1.96 | Port3
+192.168.1.243;128;FIN-SILVIJA-PC;D0:17:C2:97:FD:E3;ASUSTek Computer ;0;True;;;;;;;;;;;;;;;;;;192.168.1.25 | Slot0/7
+192.168.1.233;64;;00:80:A3:D1:22:46;Lantronix;30;True;80;;;;;;;;;;;; V6.10.0.1 (141023);;;0d 21h 27m 28s 960ms; V6.10.0.1 (141023);192.168.1.22 | L3-DEK
+192.168.1.232;64;;00:80:A3:B8:D2:9C;Lantronix;30;True;80;;;;;;;;;;;; V6.10.0.1 (141023);;;2d 0h 27m 22s 190ms; V6.10.0.1 (141023);192.168.1.22 | L2-DEK
+192.168.1.250;128;MAG-SIROVINE-PC;6C:4B:90:5B:43:13;LiteON;0;True;;;;;;;;;;;;;;;;;;192.168.1.16 | Port11
+192.168.1.245;128;FPX-PREMIKSANA-;6C:4B:90:5B:E4:66;LiteON;1;True;3389;;;;;;;;;;;;;;;;;192.168.1.12 | Port17
+192.168.1.235;64;;00:0C:26:0C:B3:3C;Weintek Labs ;0;True;80;;;;;;;;;;;;;;;;;192.168.1.22 | L2-PAL
+192.168.1.252;128;MAG-VAGA4-PC;6C:4B:90:E7:E5:DF;LiteON;0;True;;;;;;;;;;;;;;;;;;192.168.1.11 | Port6-VAGA3
+192.168.1.251;128;DEK-PRIPREMA-PC;6C:4B:90:41:02:78;LiteON;1;True;;;;;;;;;;;;;;;;;;192.168.1.18 | Port19
+192.168.1.254;128;MAG-VAGA1-PC;A4:AE:12:28:DD:10;Hon Hai Precision Ind;1;True;;;;;;;;;;;;;;;;;;192.168.1.99 | Telefon
+192.168.1.234;30;;28:63:36:A9:D3:5B;Siemens AG;1;True;;;;;;;;;;;;;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 5; FW: V.4.2.0; S C-HNNB1842";;;11d 9h 12m 22s 900ms;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 5; FW: V.4.2.0; S C-HNNB1842";192.168.1.22 | L2-PAL
+192.168.1.237;30;;28:63:36:A9:D3:59;Siemens AG;4;True;;;;;;;;;;;;;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 5; FW: V.4.2.0; S C-HNNB1823";;;11d 9h 10m 26s 800ms;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 5; FW: V.4.2.0; S C-HNNB1823";192.168.1.22 | L1-PAL
+192.168.1.240;64;;00:0C:26:16:F7:19;Weintek Labs ;0;True;80;;;;;;;;;;;;;;;;;192.168.1.22 | Port8
+192.168.1.238;64;;00:0C:26:0C:B3:6C;Weintek Labs ;0;True;80;;;;;;;;;;;;;;;;;192.168.1.22 | L1-PAL
+192.168.1.239;30;;E0:DC:A0:48:7D:DF;Siemens Industrial Automation ProductsChengdu;1;True;;;;;;;;;;;;;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 9; FW: V.4.2.2; S V-K7AM7994";;;1d 0h 12m 10s 600ms;"Siemens; SIMATIC S7; CPU-1200; 6ES7 214-1AG40-0XB0; HW: 9; FW: V.4.2.2; S V-K7AM7994";192.168.1.22 | Port8
+192.168.1.248;0;DESKTOP-M2AC5S3;6C:4B:90:0F:A9:99;LiteON;0;False;;;;;;;;;;;;;;;;;;192.168.1.122 | Port5
+192.168.1.247;255;;00:07:4D:67:9D:CB;Zebra Technologies Corp;0;True;23;;;;;;;;;;;;;;;;;192.168.1.16 | Port10-HPLaserJ
+192.168.1.231;0;;A4:17:91:1B:A4:15;Shenzhen Decnta Technology;0;False;;;;;;;;;;;;;;;;;;192.168.1.18 | Downlink-Akadem
+192.168.1.253;255;MT CSS 326-SIL;08:55:31:64:79:5D;Routerboardcom;0;True;80;;;;;;;;;;;;CSS326-24G-2S+ SwOS v2.13;MT CSS 326-SIL;SILOSI;62d 18h 31m 33s 700ms;CSS326-24G-2S+ SwOS v2.13;192.168.1.14 | Port16-SILOSI-MK
+10.24.30.1;64;;;;9;True;"22;80";;;;;;;;;;;;;;;;;
+10.24.30.11;63;;;;1;True;80;;;;;;;;;;;;;;;;;
+10.24.30.12;63;;;;3;True;80;;;;;;;;;;;;;;;;;
+10.24.30.13;63;;;;1;True;80;;;;;;;;;;;;;;;;;
+10.24.30.15;63;;;;2;True;80;;;;;;;;;;;;;;;;;
+10.24.30.14;63;;;;4;True;80;;;;;;;;;;;;;;;;;
+10.24.30.16;63;;;;1;True;80;;;;;;;;;;;;;;;;;
+10.24.30.17;63;;;;2;True;80;;;;;;;;;;;;;;;;;
+10.24.30.18;63;;;;2;True;80;;;;;;;;;;;;;;;;;
+10.24.30.19;63;;;;4;True;80;;;;;;;;;;;;;;;;;
+10.24.30.31;63;;;;2;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.32;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.34;63;;;;2;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.33;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.35;63;;;;5;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.61;63;;;;3;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.62;63;;;;14;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.64;63;;;;2;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.65;63;;;;3;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.71;63;;;;5;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.72;63;;;;9;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.73;63;;;;7;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.82;63;;;;2;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.81;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.113;63;;;;3;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.114;63;;;;8;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.117;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.118;63;;;;1;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.119;63;;;;3;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.205;63;;;;3;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.206;63;;;;2;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.211;63;;;;5;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.212;63;;;;7;True;"80;443";;;;;;;;;;;;;;;;;
+10.24.30.246;63;;;;5;True;80;;;;;;;;;;;;;;;;;
+10.24.30.250;127;;;;1;True;;;;;;;;;;;;;;;;;;
