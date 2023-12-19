@@ -1,0 +1,57 @@
+
+sudo apt update
+
+sudo apt install apache2 php libapache2-mod-php -y
+
+sudo apt install mariadb-server -y
+
+sudo mysql -u root
+
+MariaDB [(none)]> CREATE USER 'danijel'@'localhost' IDENTIFIED BY 'Abracadabra23!!';
+MariaDB [(none)]> CREATE DATABASE IF NOT EXISTS nextcloud CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+MariaDB [(none)]> GRANT ALL PRIVILEGES ON nextcloud.* TO 'danijel'@'localhost';
+MariaDB [(none)]> FLUSH PRIVILEGES;
+MariaDB [(none)]> exit;
+
+
+sudo apt install php-gd php-mysql php-curl php-xml php-mbstring php-zip php-intl -y
+
+cd /var/www/html
+
+
+sudo wget https://download.nextcloud.com/server/releases/nextcloud-28.0.0.zip
+
+sudo unzip nextcloud-28.0.0.zip
+
+sudo chown -R www-data:www-data /var/www/html/nextcloud
+
+sudo touch /etc/apache2/sites-available/nextcloud.conf
+
+
+
+sudo nano /etc/apache2/sites-available/nextcloud.conf
+
+<VirtualHost *:80>
+ServerName yourdomain.com
+DocumentRoot /var/www/html/nextcloud
+
+<Directory /var/www/html/nextcloud/>
+ Require all granted
+ Options FollowSymlinks MultiViews
+ AllowOverride All
+ <IfModule mod_dav.c>
+ Dav off
+ </IfModule>
+</Directory>
+ErrorLog /var/log/apache2/yourdomain.com.error_log
+CustomLog /var/log/apache2/yourdomain.com.access_log common
+</VirtualHost>
+
+
+sudo a2ensite nextcloud.conf
+
+sudo a2enmod rewrite
+
+apachectl -t
+
+sudo systemctl restart apache2
